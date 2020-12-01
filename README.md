@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertiq&label=Profile%20views&color=0e75b6&style=flat" alt="mertiq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertiq" alt="mertiq" /></a> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.shields.io/github/followers/mertiq?label=follow&style=social" alt="mertiq" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/realmertiq" target="blank"><img src="https://img.shields.io/twitter/follow/realmertiq?logo=twitter&style=for-the-badge" alt="realmertiq" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertiq" alt="mertiq" /></a> </p>
 
 - 🔭 I’m currently working on [Learning Unity](https://github.com/Mertiq/Unity-Learning)
 
