@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert İshak Kılıç</h1>
 <h3 align="center">a third grade computer engineering student in Istanbul</h3>
 
-<img src="https://komarev.com/ghpvc/?username=mertiq&label=Profile%20views&color=0e75b6&style=flat" alt="mertiq" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.shields.io/github/followers/mertiq?label=follow&style=social" alt="mertiq" /></a> <a href = "https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/">  </a> <a href="https://twitter.com/realmertiq" target="blank"><img src="https://img.shields.io/twitter/follow/realmertiq?logo=twitter&style=for-the-badge" alt="realmertiq" /></a> 
+<img src="https://komarev.com/ghpvc/?username=mertiq&label=Profile%20views&color=0e75b6&style=flat" alt="mertiq" /> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.shields.io/github/followers/mertiq?label=follow&style=social" alt="mertiq" /></a> <a href="https://twitter.com/realmertiq" target="blank"><img src="https://img.shields.io/twitter/follow/realmertiq?logo=twitter&style=for-the-badge" alt="realmertiq" /></a> 
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mertiq" alt="mertiq" /></a> </p>
 
