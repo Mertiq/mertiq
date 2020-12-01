@@ -13,11 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realmertiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="realmertiq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mert ishak kılıç" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mert ishak kılıç" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mert-ishak-kılıç-4b4576197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mert-ishak-kılıç-4b4576197" height="30" width="40" /></a>
 <a href="https://fb.com/esslmalykm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="esslmalykm" height="30" width="40" /></a>
 <a href="https://instagram.com/mertiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mertiq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mert i̇shak kılıç" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mert i̇shak kılıç" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/channel/ucvyxdyk7ctylbekymkybq0a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/ucvyxdyk7ctylbekymkybq0a" height="30" width="40" /></a>
 </p>
 
