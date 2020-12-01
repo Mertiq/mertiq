@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [Learning Unity](https://github.com/Mertiq/Unity-Learning)
 
 - 🌱 I’m currently learning **Unity**
-@@ -16,10 +16,10 @@
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realmertiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="realmertiq" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-@@ -28,4 +28,3 @@
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertiq&show_icons=true&locale=en&layout=compact" alt="mertiq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertiq&show_icons=true&locale=en" alt="mertiq" /></p>
