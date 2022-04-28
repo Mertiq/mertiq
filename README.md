@@ -9,7 +9,7 @@ I am in the last year of my Computer Engineering education. I have been learning
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [mertishakilic@gmail.com](mailto:mertishakilic@gmail.com)
 * 🚀  I'm currently working on [Reincarnation](http://reincarnationgame.io)
-* 🧠  I'm learning Unity and C#
+* 🧠  I'm learning Unity and C# everyday
 
 
 ### Socials
