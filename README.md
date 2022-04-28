@@ -1,12 +1,22 @@
-<h1 align="center">I'm Mert İshak Kılıç</h1>
-<h3 align="center">4th year Computer Engineering student and Jr. Game Developer at Yin Yang Games</h3>
+Hi 👋 My name is Mert İshak Kılıç
+=================================
 
-- 📫 How to reach me **mertishakilic@gmail.com**
+Jr. Game Developer
+------------------
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mertiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertiq" height="30" width="40" /></a>
-</p>
+I am in the last year of my Computer Engineering education. I have been learning coding for 5 years. In this journey that I started with Java, I also made small projects using Python, Javascript and C languages. Eventually, I realized that my real passion is game development, and I learned Unity and C# on that. I am currently working as Jr Game Developer at Yin Yang Games company, Reincarnation project.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+*   🌍  I'm based in İstanbul
+*   ✉️  You can contact me at [mertishakilic@gmail.com](mailto:mertishakilic@gmail.com)
+*   🚀  I'm currently working on [Reincarnation](http://reincarnationgame.io)
+*   🧠  I'm learning Unity and C#
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://discord.com/users/mertiq#7723" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/Mertiq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/mertiq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
