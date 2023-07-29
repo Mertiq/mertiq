@@ -1,6 +1,6 @@
 ### ⚡️ Hi! I'm Mert
 
-  - I'm interesting in game development 🎮.
+  - I'm interesting in game development. 🎮
   - I'm using Unity and C#. 
   - I try to learn something new every day.
 
