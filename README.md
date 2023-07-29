@@ -14,16 +14,4 @@
 
 #### Languages and Tools:
 
-<img align="left" alt="Go" width="26px" src="[https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)" />
-
-Game Developer
-------------------
-
-* 🌍  I'm based in İstanbul
-* ✉️  You can contact me at [mertishakilic@gmail.com](mailto:mertishakilic@gmail.com)
-* 🧠  I'm learning Unity and C# everyday
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/mertiq#7723" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mertiq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mertiq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
