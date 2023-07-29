@@ -1,10 +1,23 @@
-Hi 👋 My name is Mert İshak Kılıç
-=================================
+### ⚡️ Hi! I'm Mert
+
+  - I'm interesting in game development 🎮.
+  - I'm using Unity and C#. 
+  - I try to learn something new every day.
+
+**Connect with me:**
+
+<a href="https://www.linkedin.com/in/mertiq">
+  <img align="left" alt="Mert İshak Kılıç LinkedIn" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+
+<br />
+
+#### Languages and Tools:
+
+<img align="left" alt="Go" width="26px" src="[https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)" />
 
 Game Developer
 ------------------
-
-I am a Computer Engineer. I have been learning coding for 6 years. In this journey that I started with Java, I also made small projects using Python, Javascript and C languages. Eventually, I realized that my real passion is game development, and I learned Unity and C# on that.
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [mertishakilic@gmail.com](mailto:mertishakilic@gmail.com)
